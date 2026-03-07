@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "siteTitle": "Karpan Climate Service",
+    "siteDescription": "Prémiová montáž, čistenie a servis klimatizácií, vykurovania, tepelných čerpadiel a MaR systémov.",
+    "homeTitle": "Klimatické systémy s presným servisom",
+    "servicesTitle": "Služby",
+    "aboutTitle": "O nás",
+    "contactTitle": "Kontakt a objednávka",
+    "privacyTitle": "Zásady ochrany osobných údajov",
+    "cookieTitle": "Zásady používania cookies",
+    "adminTitle": "Admin stats"
+  },
+  "nav": {
+    "home": "Domov",
+    "services": "Služby",
+    "about": "O nás",
+    "contact": "Objednávka",
+    "privacy": "Ochrana súkromia",
+    "cookies": "Cookies",
+    "admin": "Štatistiky",
+    "menu": "Menu"
+  },
+  "cta": {
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "booking": "Objednať servis",
+    "learnMore": "Viac informácií",
+    "send": "Odoslať žiadosť",
+    "viewServices": "Zobraziť služby"
+  },
+  "home": {
+    "eyebrow": "Klimatický servis pre domy a firmy",
+    "headline": "Moderný klimatický servis pre domy, kancelárie a technické priestory.",
+    "subheadline": "Montáž, čistenie a dlhodobá starostlivosť o klimatizácie, vykurovanie, tepelné čerpadlá a systémy MaR — s pokojnou, presnou a profesionálnou realizáciou.",
+    "servicesTitle": "Kľúčové služby",
+    "servicesText": "Jasná servisná architektúra pre slovenský trh a jednoduchšie rozhodovanie klienta.",
+    "whyTitle": "Prečo si klienti vyberajú Karpan Climate Service",
+    "whyItems": [
+      "Presná montáž a čisté prevedenie",
+      "Moderné vybavenie a dôkladná diagnostika",
+      "Rýchla digitálna komunikácia cez WhatsApp a email",
+      "Servis postavený na komforte, efektivite a spoľahlivosti"
+    ],
+    "expertiseTitle": "Oblasti odbornosti",
+    "expertiseItems": [
+      "Klimatizačné systémy",
+      "Vykurovacie systémy",
+      "Tepelné čerpadlá",
+      "MaR / riadenie systémov",
+      "Rezidenčné objekty",
+      "Komerčné priestory"
+    ],
+    "processTitle": "Ako prebieha spolupráca",
+    "processItems": [
+      {
+        "title": "Dopyt",
+        "text": "Pošlete krátku žiadosť s typom služby, preferovaným termínom a základnými informáciami."
+      },
+      {
+        "title": "Potvrdenie",
+        "text": "Dopyt preveríme a potvrdíme rozsah, termín aj ďalší postup."
+      },
+      {
+        "title": "Realizácia",
+        "text": "Montáž, čistenie alebo servis prebieha s dôrazom na detail a technickú presnosť."
+      },
+      {
+        "title": "Podpora",
+        "text": "Aj po zásahu zostáva komunikácia jasná pre údržbu aj ďalšie požiadavky."
+      }
+    ],
+    "bookingTitle": "Požiadajte o servis",
+    "bookingText": "Čistý digitálny formulár navrhnutý pre praktické plánovanie bez zbytočného trenia.",
+    "aboutTitle": "Profesionálne klimatické systémy s moderným servisným štandardom",
+    "aboutText": "Karpan Climate Service je postavený ako precízny technický partner pre kvalitu vzduchu, efektivitu vykurovania a spoľahlivé riadenie systémov. Rovnaký štandard odráža aj samotný web: jasnosť, dôvera a technická istota.",
+    "heroBadge": "Klima / HVAC / MaR",
+    "heroDescription": "Navrhnute tak, aby posobilo presne, pokojne a technicky spolahlivo bez vizualneho sumu bezneho remeselneho webu.",
+    "heroCoreFocusLabel": "Hlavne zameranie",
+    "heroCoreFocusText": "Montaz, servis, vykurovanie, tepelne cerpadla.",
+    "heroLeadPathLabel": "Kontakt",
+    "heroLeadPathText": "WhatsApp, email a objednavka - nic navyse."
+  },
+  "servicesPage": {
+    "eyebrow": "Servisná architektúra",
+    "headline": "Klíma, vykurovanie a riadiace systémy s presným prevedením.",
+    "text": "Každá stránka služby je navrhnutá pre jasnosť, dôveru a praktické rozhodovanie."
+  },
+  "serviceCards": {
+    "installation": {
+      "title": "Montáž klimatizácie",
+      "excerpt": "Nová montáž split a multi-split systémov s čistým prevedením a spoľahlivým nastavením."
+    },
+    "cleaning": {
+      "title": "Čistenie klimatizácie",
+      "excerpt": "Hĺbkové čistenie so zameraním na hygienu, kvalitu prúdenia vzduchu a výkon systému."
+    },
+    "service": {
+      "title": "Servis klimatizácie",
+      "excerpt": "Preventívna údržba, diagnostika a servis orientovaný na stabilný výkon."
+    },
+    "heating": {
+      "title": "Vykurovacie systémy",
+      "excerpt": "Komfortné riešenia vykurovania pre domy, kancelárie a technické priestory."
+    },
+    "heatPumps": {
+      "title": "Tepelné čerpadlá",
+      "excerpt": "Efektívne riešenia tepelných čerpadiel s moderným technickým štandardom."
+    },
+    "mar": {
+      "title": "MaR / riadiace systémy",
+      "excerpt": "Meranie, regulácia a logika riadenia pre spoľahlivú prevádzku."
+    }
+  },
+  "servicePages": {
+    "installation": {
+      "title": "Air conditioner installation",
+      "intro": "Installation designed around clean execution, correct sizing and long-term operational confidence.",
+      "body": [
+        "We approach installation as part of the building system, not as a rushed one-day task. Proper placement, efficient routing and careful finishing influence comfort, noise level and long-term reliability.",
+        "The page architecture supports residential and small commercial enquiries, with clear digital conversion through WhatsApp, email and booking request."
+      ]
+    },
+    "cleaning": {
+      "title": "Air conditioner cleaning",
+      "intro": "Regular cleaning protects indoor air quality, efficiency and the general condition of the unit.",
+      "body": [
+        "Cleaning is presented as a responsible maintenance action rather than a generic add-on. The messaging is calm, practical and hygiene-focused.",
+        "This structure works well for clients who value trust, careful work and easy scheduling."
+      ]
+    },
+    "service": {
+      "title": "Air conditioner service / maintenance",
+      "intro": "Preventive and corrective service to keep systems stable, efficient and dependable.",
+      "body": [
+        "The service page balances technical clarity with conversion-oriented UX. It is designed to reassure both home and small business clients.",
+        "Diagnostics, seasonal checks and ongoing maintenance are communicated in a professional, controlled tone."
+      ]
+    },
+    "heating": {
+      "title": "Heating systems",
+      "intro": "Heating support built around comfort, system stability and practical efficiency.",
+      "body": [
+        "For heating, the content positions the company as a modern service partner able to support both conventional and updated systems.",
+        "The visual style stays restrained and premium, matching the trust required for engineering-related decisions."
+      ]
+    },
+    "heatPumps": {
+      "title": "Heat pumps",
+      "intro": "Efficient heat pump solutions with a clear focus on comfort, performance and modern operation.",
+      "body": [
+        "Heat pumps require a calm, informed explanation. The content avoids overclaiming and focuses on correct planning, serviceability and dependable operation.",
+        "This positioning helps attract quality leads who value a premium service impression."
+      ]
+    },
+    "mar": {
+      "title": "MaR / control systems",
+      "intro": "Measurement and regulation systems that improve visibility, control and operational consistency.",
+      "body": [
+        "The MaR page broadens the site from a standard HVAC service presence into a more technically credible engineering service brand.",
+        "The language is structured to stay accessible while still feeling precise and professional."
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "O spoločnosti",
+    "headline": "Precízny technický prístup pre moderné klimatické systémy.",
+    "body": [
+      "Karpan Climate Service je navrhnutý ako prémiová lokálna servisná značka pre klientov, ktorí očakávajú technickú správnosť, čistú realizáciu a jasnú komunikáciu.",
+      "Zameranie pokrýva montáž, čistenie, údržbu, vykurovanie, tepelné čerpadlá aj podporu systémov MaR, pričom kontakt je riešený digitálne a s rešpektom k času klienta."
+    ]
+  },
+  "contact": {
+    "eyebrow": "Objednávka a kontakt",
+    "headline": "Pošlite servisný dopyt",
+    "text": "Vyberte typ služby, preferovaný termín a pohodlný kontaktný kanál. Ozveme sa s jasným ďalším postupom.",
+    "directTitle": "Priamy kontakt",
+    "legal": "Podrobné firemné údaje môžete neskôr doplniť v konfiguračnom súbore a právnych stránkach.",
+    "whatsappLabel": "WhatsApp"
+  },
+  "form": {
+    "name": "Meno",
+    "email": "Email",
+    "phone": "WhatsApp / Telefón",
+    "service": "Typ služby",
+    "date": "Preferovaný dátum",
+    "time": "Preferovaný čas",
+    "message": "Správa",
+    "success": "Vaša žiadosť bola úspešne odoslaná.",
+    "error": "Niečo sa pokazilo. Skúste to znova.",
+    "honeypot": "Nechajte toto pole prázdne",
+    "placeholderMessage": "Opíšte priestor, typ systému alebo s čím potrebujete pomôcť.",
+    "selectPlaceholder": "Vyberte službu"
+  },
+  "consent": {
+    "title": "Analytika len so súhlasom",
+    "text": "Používame analytiku prvej strany šetrnú k súkromiu, aby sme rozumeli návštevám a kliknutiam. Analytika sa aktivuje až po vašom súhlase.",
+    "accept": "Povoliť analytiku",
+    "decline": "Pokračovať bez analytiky",
+    "manage": "Spravovať cookies"
+  },
+  "legal": {
+    "privacyIntro": "Táto webstránka zhromažďuje iba údaje potrebné na odpoveď na servisné dopyty a, po udelení súhlasu, analytické údaje šetrné k súkromiu na zlepšovanie webu.",
+    "cookieIntro": "Táto webstránka používa nevyhnutné cookies pre základnú funkčnosť a voliteľné analytické úložisko až po udelení súhlasu.",
+    "cookieEssential": "Nevyhnutne ulozisko sa pouziva iba pre jazykove smerovanie a stav suhlasu s cookies. Volitelna analytika je vypnuta, kym ju navstevnik vyslovne nepovoli.",
+    "cookieAnalytics": "Analytika v tomto projekte je first-party a zamerana na agregovane udaje: navstevy, zobrazenia, kliknutia na CTA, jazyky, zdroje a typ zariadenia.",
+    "cookieChoice": "Pouzivatel moze volitelnu analytiku odmietnut a web pouzivat bez obmedzenia zakladnej funkcnosti.",
+    "privacyController": "Prevadzkovatel",
+    "privacyContact": "Kontakt",
+    "privacyBooking": "Udaje z rezervacnych formularov spracuvame na odpovedanie na dopyty a organizaciu pozadovanych sluzieb. Udaje uchovavame iba po dobu primerane potrebnu na follow-up a pravne povinnosti.",
+    "privacyAnalytics": "Ak je udeleny suhlas, spracuvame privacy-friendly analyticke udaje ako navstevy stranok, kliknutia na tlacidla, jazyky a kategorie zariadeni. Reklamne profilovanie nie je v tomto projekte standardne aktivovane.",
+    "privacyRights": "Pouzivatel moze poziadat o pristup, opravu alebo vymaz osobnych udajov v rozsahu povolenom pravom EU a SR."
+  },
+  "footer": {
+    "tagline": "Montáž, čistenie a servis klimatických systémov s presným moderným štandardom.",
+    "rights": "Všetky práva vyhradené.",
+    "contactTitle": "Kontakt",
+    "legalTitle": "Pravne"
+  },
+  "stats": {
+    "headline": "Štatistiky webu",
+    "visits": "Návštevy",
+    "pageViews": "Zobrazenia stránok",
+    "uniqueVisitors": "Unikátni návštevníci",
+    "formSubmissions": "Odoslané formuláre",
+    "trafficSources": "Zdroje návštevnosti",
+    "popularPages": "Najnavštevovanejšie stránky",
+    "languages": "Použitie jazykov",
+    "devices": "Zariadenia",
+    "ctaClicks": "Kliknutia na CTA",
+    "bookings": "Posledné servisné žiadosti",
+    "tableName": "Meno",
+    "tableEmail": "Email",
+    "tableService": "Sluzba",
+    "tableDate": "Datum",
+    "tableLocale": "Jazyk",
+    "noData": "Zatial bez dat."
+  }
+}

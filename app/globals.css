@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-bg text-graphite antialiased;
+  background-image:
+    radial-gradient(circle at top right, rgba(31,123,255,0.08), transparent 30%),
+    radial-gradient(circle at left top, rgba(248,127,34,0.06), transparent 24%);
+}
+
+::selection {
+  background: rgba(248, 127, 34, 0.18);
+}
+
+.glass {
+  @apply border border-white/60 bg-white/60 backdrop-blur-xl shadow-glass;
+}
+
+.section {
+  @apply mx-auto max-w-page px-4 sm:px-6 lg:px-8;
+}
+
+.eyebrow {
+  @apply mb-3 inline-flex items-center rounded-full border border-electric/15 bg-electric/5 px-3 py-1 text-xs font-medium tracking-[0.14em] text-electric uppercase;
+}
+
+.h1 {
+  @apply text-4xl font-semibold tracking-tight sm:text-5xl lg:text-6xl;
+}
+
+.h2 {
+  @apply text-3xl font-semibold tracking-tight sm:text-4xl;
+}
+
+.p-muted {
+  @apply text-base leading-7 text-muted sm:text-lg;
+}

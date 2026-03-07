@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "siteTitle": "Karpan Climate Service",
+    "siteDescription": "Premium monta?a, ?i??enje in servis klimatskih naprav, ogrevanja, toplotnih ?rpalk in MaR sistemov.",
+    "homeTitle": "Klimatski sistemi z natan?nim servisom",
+    "servicesTitle": "Storitve",
+    "aboutTitle": "O nas",
+    "contactTitle": "Kontakt in povpra?evanje",
+    "privacyTitle": "Politika zasebnosti",
+    "cookieTitle": "Politika pi?kotkov",
+    "adminTitle": "Admin statistika"
+  },
+  "nav": {
+    "home": "Domov",
+    "services": "Storitve",
+    "about": "O nas",
+    "contact": "Povpraševanje",
+    "privacy": "Zasebnost",
+    "cookies": "Piškotki",
+    "admin": "Statistika",
+    "menu": "Meni"
+  },
+  "cta": {
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "booking": "Zahteva za servis",
+    "learnMore": "Ve? informacij",
+    "send": "Po?lji povpra?evanje",
+    "viewServices": "Prika?i storitve"
+  },
+  "home": {
+    "eyebrow": "Klimatski servis za dom in poslovne prostore",
+    "headline": "Sodobna klimatska storitev za domove, pisarne in tehnične prostore.",
+    "subheadline": "Montaža, čiščenje in dolgoročno vzdrževanje klimatskih naprav, ogrevanja, toplotnih črpalk in MaR sistemov.",
+    "servicesTitle": "Klju?ne storitve",
+    "servicesText": "Jasna storitvena arhitektura za slova?ki trg in la?je odlo?anje.",
+    "whyTitle": "Zakaj stranke izberejo Karpan Climate Service",
+    "whyItems": [
+      "Natan?na monta?a in ?ista izvedba",
+      "Sodobna oprema in skrbna diagnostika",
+      "Hitra digitalna komunikacija prek WhatsAppa in e-po?te",
+      "Servis, usmerjen v udobje, u?inkovitost in zanesljivost"
+    ],
+    "expertiseTitle": "Podro?ja strokovnosti",
+    "expertiseItems": [
+      "Klimatski sistemi",
+      "Ogrevalni sistemi",
+      "Toplotne ?rpalke",
+      "MaR / regulacijski sistemi",
+      "Stanovanjski objekti",
+      "Poslovni prostori"
+    ],
+    "processTitle": "Kako poteka sodelovanje",
+    "processItems": [
+      {
+        "title": "Povpra?evanje",
+        "text": "Po?ljete kratko povpra?evanje z vrsto storitve, ?elenim terminom in osnovnimi podatki."
+      },
+      {
+        "title": "Potrditev",
+        "text": "Povpra?evanje pregledamo in potrdimo obseg, termin ter naslednje korake."
+      },
+      {
+        "title": "Izvedba",
+        "text": "Monta?a, ?i??enje ali servis so izvedeni skrbno in tehni?no natan?no."
+      },
+      {
+        "title": "Podpora",
+        "text": "Po posegu komunikacija ostane jasna za vzdr?evanje in nadaljnje potrebe."
+      }
+    ],
+    "bookingTitle": "Oddajte servisno povpra?evanje",
+    "bookingText": "?ist digitalni obrazec za prakti?no na?rtovanje brez nepotrebnega trenja.",
+    "aboutTitle": "Profesionalni klimatski sistemi s sodobnim servisnim standardom",
+    "aboutText": "Karpan Climate Service je pozicioniran kot natan?en in?enirski partner za kakovost zraka, u?inkovitost ogrevanja in stabilne regulacijske sisteme. Enak standard odra?a tudi spletna izku?nja: jasnost, zaupanje in tehni?na zanesljivost.",
+    "heroBadge": "Klima / HVAC / MaR",
+    "heroDescription": "Zasnovano tako, da deluje natancno, mirno in tehnicno zanesljivo brez vizualnega suma obicajne servisne strani.",
+    "heroCoreFocusLabel": "Glavni fokus",
+    "heroCoreFocusText": "Monta?a, servis, ogrevanje, toplotne ?rpalke.",
+    "heroLeadPathLabel": "Pot kontakta",
+    "heroLeadPathText": "WhatsApp, email in povprasevanje - brez odvecnega."
+  },
+  "servicesPage": {
+    "eyebrow": "Storitvena arhitektura",
+    "headline": "Klima, ogrevanje in regulacijski sistemi z natan?no izvedbo.",
+    "text": "Vsaka stran storitve je oblikovana za jasnost, zaupanje in prakti?no odlo?anje."
+  },
+  "serviceCards": {
+    "installation": {
+      "title": "Monta?a klimatske naprave",
+      "excerpt": "Nova monta?a split in multi-split sistemov s ?isto izvedbo in zanesljivo nastavitvijo."
+    },
+    "cleaning": {
+      "title": "?i??enje klimatske naprave",
+      "excerpt": "Globinsko ?i??enje s poudarkom na higieni, kakovosti zraka in u?inkovitosti sistema."
+    },
+    "service": {
+      "title": "Servis klimatske naprave",
+      "excerpt": "Preventivno vzdr?evanje, diagnostika in servis za stabilno delovanje."
+    },
+    "heating": {
+      "title": "Ogrevalni sistemi",
+      "excerpt": "Re?itve ogrevanja za udobje v domovih, pisarnah in tehni?nih prostorih."
+    },
+    "heatPumps": {
+      "title": "Toplotne ?rpalke",
+      "excerpt": "U?inkovite re?itve toplotnih ?rpalk s sodobnim tehni?nim standardom."
+    },
+    "mar": {
+      "title": "MaR / regulacijski sistemi",
+      "excerpt": "Merjenje, regulacija in pametna logika vodenja za zanesljivo obratovanje."
+    }
+  },
+  "servicePages": {
+    "installation": {
+      "title": "Monta?a klimatske naprave",
+      "intro": "Monta?a z osredoto?enostjo na ?isto izvedbo, pravilno dimenzioniranje in dolgoro?no obratovalno zanesljivost.",
+      "body": [
+        "Monta?o obravnavamo kot del celotnega sistema objekta, ne kot hitro enodnevno opravilo. Pravilna postavitev, u?inkovito trasiranje in skrbna zaklju?na dela vplivajo na udobje, hrup in dolgoro?no zanesljivost.",
+        "Arhitektura strani podpira stanovanjska in manj?a poslovna povpra?evanja z jasnim digitalnim prehodom prek WhatsAppa, e-po?te in obrazca."
+      ]
+    },
+    "cleaning": {
+      "title": "?i??enje klimatske naprave",
+      "intro": "Redno ?i??enje varuje kakovost zraka, u?inkovitost in splo?no stanje enote.",
+      "body": [
+        "?i??enje je predstavljeno kot odgovorno vzdr?evalno dejanje, ne kot generi?ni dodatek. Sporo?ila ostajajo mirna, prakti?na in usmerjena v higieno.",
+        "Tak?na struktura je u?inkovita za stranke, ki cenijo zaupanje, natan?no delo in enostavno na?rtovanje."
+      ]
+    },
+    "service": {
+      "title": "Servis klimatske naprave / vzdr?evanje",
+      "intro": "Preventivni in korektivni servis za stabilno, u?inkovito in zanesljivo delovanje sistemov.",
+      "body": [
+        "Stran servisa uravnote?i tehni?no jasnost in UX, usmerjen v povpra?evanje. Primerna je tako za gospodinjstva kot za manj?e poslovne uporabnike.",
+        "Diagnostika, sezonski pregledi in redno vzdr?evanje so predstavljeni v profesionalnem in nadzorovanem tonu."
+      ]
+    },
+    "heating": {
+      "title": "Ogrevalni sistemi",
+      "intro": "Podpora ogrevanju, zasnovana okoli udobja, stabilnosti sistema in prakti?ne u?inkovitosti.",
+      "body": [
+        "Na podro?ju ogrevanja je podjetje predstavljeno kot sodoben servisni partner za klasi?ne in posodobljene sisteme.",
+        "Vizualni slog ostaja zadr?an in premijski, skladno z zaupanjem, ki ga zahtevajo tehni?ne odlo?itve."
+      ]
+    },
+    "heatPumps": {
+      "title": "Toplotne ?rpalke",
+      "intro": "U?inkovite re?itve toplotnih ?rpalk z jasnim poudarkom na udobju, zmogljivosti in sodobnem obratovanju.",
+      "body": [
+        "Toplotne ?rpalke zahtevajo mirno in informirano razlago. Vsebina se zato osredoto?a na pravilno na?rtovanje, servisabilnost in zanesljivo uporabo.",
+        "Tak?no pozicioniranje pomaga pridobivati kakovostna povpra?evanja strank, ki cenijo premijski servisni vtis."
+      ]
+    },
+    "mar": {
+      "title": "MaR / regulacijski sistemi",
+      "intro": "Sistemi merjenja in regulacije za bolj?o preglednost, nadzor in stabilno obratovanje.",
+      "body": [
+        "Stran MaR raz?iri podobo podjetja iz standardne HVAC prisotnosti v tehni?no bolj kredibilno in?enirsko storitveno znamko.",
+        "Jezik je oblikovan tako, da ostane dostopen, hkrati pa natan?en in profesionalen."
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "O podjetju",
+    "headline": "Natan?en in?enirski pristop za sodobne klimatske sisteme.",
+    "body": [
+      "Karpan Climate Service je zasnovan kot premijska lokalna servisna znamka za stranke, ki pri?akujejo tehni?no pravilnost, ?isto izvedbo in jasno komunikacijo.",
+      "Podro?je dela vklju?uje monta?o, ?i??enje, vzdr?evanje, ogrevanje, toplotne ?rpalke in MaR-podporo z digitalnim kontaktnim procesom, ki spo?tuje ?as stranke."
+    ]
+  },
+  "contact": {
+    "eyebrow": "Povpra?evanje in kontakt",
+    "headline": "Send a service request",
+    "text": "Izberite vrsto storitve, ?eleni datum in primeren kontaktni kanal. Odgovorimo z jasnimi naslednjimi koraki.",
+    "directTitle": "Direct contact",
+    "legal": "Podrobne registracijske podatke podjetja lahko pozneje dopolnite v konfiguraciji in pravnih straneh.",
+    "whatsappLabel": "WhatsApp"
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "WhatsApp / Phone",
+    "service": "Service type",
+    "date": "Preferred date",
+    "time": "Preferred time",
+    "message": "Message",
+    "success": "Va?e povpra?evanje je bilo uspe?no poslano.",
+    "error": "Pri?lo je do napake. Poskusite znova.",
+    "honeypot": "Leave this field empty",
+    "placeholderMessage": "Opi?ite prostor, tip sistema ali s ?im potrebujete pomo?.",
+    "selectPlaceholder": "Select service"
+  },
+  "consent": {
+    "title": "Analytics only with consent",
+    "text": "Uporabljamo privacy-friendly first-party analitiko za razumevanje obiskov in klikov. Analitika se aktivira ?ele po va?em soglasju.",
+    "accept": "Accept analytics",
+    "decline": "Continue without analytics",
+    "manage": "Manage cookies"
+  },
+  "legal": {
+    "privacyIntro": "To spletno mesto zbira le podatke, potrebne za odgovor na servisna povpra?evanja, in ob soglasju ?e privacy-friendly analiti?ne podatke za izbolj?anje strani.",
+    "cookieIntro": "To spletno mesto uporablja nujne pi?kotke za osnovno delovanje ter opcijsko analiti?no hrambo ?ele po podanem soglasju.",
+    "cookieEssential": "Nujna hramba se uporablja samo za jezikovno usmerjanje in stanje soglasja za cookies. Opcijska analitika je izklopljena, dokler uporabnik tega izrecno ne dovoli.",
+    "cookieAnalytics": "Analitika v tem projektu je first-party in osredotocena na agregirano rabo: obiski, ogledi, CTA kliki, jeziki, viri in tip naprave.",
+    "cookieChoice": "Uporabnik lahko opcijsko analitiko zavrne in nadaljuje uporabo spletnega mesta brez omejitve osnovne funkcionalnosti.",
+    "privacyController": "Upravljavec",
+    "privacyContact": "Kontakt",
+    "privacyBooking": "Podatke iz povprasevanja obdelujemo za odgovor na zahteve in organizacijo zahtevanih storitev. Podatki se hranijo le toliko casa, kolikor je razumno potrebno za nadaljnje korake in pravne obveznosti.",
+    "privacyAnalytics": "Ob podanem soglasju obdelujemo privacy-friendly analiticne podatke, kot so obiski strani, kliki gumbov, jeziki in kategorije naprav. Oglasno profiliranje v projektu privzeto ni omogoceno.",
+    "privacyRights": "Uporabnik lahko zahteva dostop, popravek ali izbris osebnih podatkov v obsegu, ki ga dovoljujeta pravo EU in Slovaske."
+  },
+  "footer": {
+    "tagline": "Monta?a, ?i??enje in servis klimatskih sistemov z natan?nim sodobnim standardom.",
+    "rights": "All rights reserved.",
+    "contactTitle": "Kontakt",
+    "legalTitle": "Pravno"
+  },
+  "stats": {
+    "headline": "Website statistics",
+    "visits": "Visits",
+    "pageViews": "Page views",
+    "uniqueVisitors": "Unique visitors",
+    "formSubmissions": "Form submissions",
+    "trafficSources": "Traffic sources",
+    "popularPages": "Popular pages",
+    "languages": "Language usage",
+    "devices": "Device breakdown",
+    "ctaClicks": "CTA clicks",
+    "bookings": "Recent booking requests",
+    "tableName": "Ime",
+    "tableEmail": "Email",
+    "tableService": "Storitev",
+    "tableDate": "Datum",
+    "tableLocale": "Jezik",
+    "noData": "Se ni podatkov."
+  }
+}

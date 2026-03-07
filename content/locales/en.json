@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "siteTitle": "Karpan Climate Service",
+    "siteDescription": "Premium installation, cleaning and service for air conditioning, heating, heat pumps and MaR systems.",
+    "homeTitle": "Climate systems with precise service",
+    "servicesTitle": "Services",
+    "aboutTitle": "About",
+    "contactTitle": "Contact and booking",
+    "privacyTitle": "Privacy Policy",
+    "cookieTitle": "Cookie Policy",
+    "adminTitle": "Admin stats"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Booking",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy",
+    "admin": "Stats",
+    "menu": "Menu"
+  },
+  "cta": {
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "booking": "Request service",
+    "learnMore": "Learn more",
+    "send": "Send request",
+    "viewServices": "View services"
+  },
+  "home": {
+    "eyebrow": "Climate service for homes and business",
+    "headline": "Modern climate service for homes, offices and technical spaces.",
+    "subheadline": "Installation, cleaning and long-term care for air conditioners, heating, heat pumps and MaR control systems — delivered with a calm, precise and professional approach.",
+    "servicesTitle": "Core services",
+    "servicesText": "Clear service architecture built for the Slovak market and easy decision-making.",
+    "whyTitle": "Why clients choose Karpan Climate Service",
+    "whyItems": [
+      "Precise installation and clean execution",
+      "Modern equipment and careful diagnostics",
+      "Fast digital communication via WhatsApp and email",
+      "Service built around comfort, efficiency and reliability"
+    ],
+    "expertiseTitle": "Areas of expertise",
+    "expertiseItems": [
+      "Air conditioning systems",
+      "Heating systems",
+      "Heat pumps",
+      "MaR / control systems",
+      "Residential properties",
+      "Commercial spaces"
+    ],
+    "processTitle": "How the process works",
+    "processItems": [
+      {
+        "title": "Request",
+        "text": "You send a short request with service type, preferred time and basic details."
+      },
+      {
+        "title": "Confirmation",
+        "text": "We review the request and confirm scope, timing and next steps."
+      },
+      {
+        "title": "On-site work",
+        "text": "Installation, cleaning or servicing is delivered with care and technical precision."
+      },
+      {
+        "title": "Support",
+        "text": "After the visit, communication stays clear for maintenance and follow-up needs."
+      }
+    ],
+    "bookingTitle": "Book a service request",
+    "bookingText": "A clean digital request form designed for practical scheduling, not unnecessary friction.",
+    "aboutTitle": "Professional climate systems with a modern service standard",
+    "aboutText": "Karpan Climate Service is positioned as a careful engineering-led partner for air quality, heating efficiency and stable control systems. The website experience reflects the same standard: clarity, trust and technical confidence.",
+    "heroBadge": "Climate / HVAC / MaR",
+    "heroDescription": "Designed to feel precise, calm and technically dependable without the visual noise of a standard trade website.",
+    "heroCoreFocusLabel": "Core focus",
+    "heroCoreFocusText": "Installation, service, heating, heat pumps.",
+    "heroLeadPathLabel": "Lead path",
+    "heroLeadPathText": "WhatsApp, email and booking - nothing unnecessary."
+  },
+  "servicesPage": {
+    "eyebrow": "Service architecture",
+    "headline": "Climate, heating and control systems delivered with precision.",
+    "text": "Each service page is structured for clarity, trust and practical decision-making."
+  },
+  "serviceCards": {
+    "installation": {
+      "title": "Air conditioner installation",
+      "excerpt": "New split and multi-split installation with clean execution and reliable setup."
+    },
+    "cleaning": {
+      "title": "Air conditioner cleaning",
+      "excerpt": "Deep cleaning focused on hygiene, airflow quality and system performance."
+    },
+    "service": {
+      "title": "Air conditioner service",
+      "excerpt": "Preventive maintenance, diagnostics and performance-focused servicing."
+    },
+    "heating": {
+      "title": "Heating systems",
+      "excerpt": "Comfort-driven heating support for homes, offices and technical premises."
+    },
+    "heatPumps": {
+      "title": "Heat pumps",
+      "excerpt": "Efficient heat pump solutions with a modern low-noise technical standard."
+    },
+    "mar": {
+      "title": "MaR / control systems",
+      "excerpt": "Measurement, regulation and smart control logic for reliable operation."
+    }
+  },
+  "servicePages": {
+    "installation": {
+      "title": "Air conditioner installation",
+      "intro": "Installation designed around clean execution, correct sizing and long-term operational confidence.",
+      "body": [
+        "We approach installation as part of the building system, not as a rushed one-day task. Proper placement, efficient routing and careful finishing influence comfort, noise level and long-term reliability.",
+        "The page architecture supports residential and small commercial enquiries, with clear digital conversion through WhatsApp, email and booking request."
+      ]
+    },
+    "cleaning": {
+      "title": "Air conditioner cleaning",
+      "intro": "Regular cleaning protects indoor air quality, efficiency and the general condition of the unit.",
+      "body": [
+        "Cleaning is presented as a responsible maintenance action rather than a generic add-on. The messaging is calm, practical and hygiene-focused.",
+        "This structure works well for clients who value trust, careful work and easy scheduling."
+      ]
+    },
+    "service": {
+      "title": "Air conditioner service / maintenance",
+      "intro": "Preventive and corrective service to keep systems stable, efficient and dependable.",
+      "body": [
+        "The service page balances technical clarity with conversion-oriented UX. It is designed to reassure both home and small business clients.",
+        "Diagnostics, seasonal checks and ongoing maintenance are communicated in a professional, controlled tone."
+      ]
+    },
+    "heating": {
+      "title": "Heating systems",
+      "intro": "Heating support built around comfort, system stability and practical efficiency.",
+      "body": [
+        "For heating, the content positions the company as a modern service partner able to support both conventional and updated systems.",
+        "The visual style stays restrained and premium, matching the trust required for engineering-related decisions."
+      ]
+    },
+    "heatPumps": {
+      "title": "Heat pumps",
+      "intro": "Efficient heat pump solutions with a clear focus on comfort, performance and modern operation.",
+      "body": [
+        "Heat pumps require a calm, informed explanation. The content avoids overclaiming and focuses on correct planning, serviceability and dependable operation.",
+        "This positioning helps attract quality leads who value a premium service impression."
+      ]
+    },
+    "mar": {
+      "title": "MaR / control systems",
+      "intro": "Measurement and regulation systems that improve visibility, control and operational consistency.",
+      "body": [
+        "The MaR page broadens the site from a standard HVAC service presence into a more technically credible engineering service brand.",
+        "The language is structured to stay accessible while still feeling precise and professional."
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "About the company",
+    "headline": "A careful engineering service approach for modern climate systems.",
+    "body": [
+      "Karpan Climate Service is designed as a premium local service business for clients who care about technical correctness, clean work and clear communication.",
+      "The company focus spans installation, cleaning, maintenance, heating systems, heat pumps and MaR-related support, with a digital-first contact experience that respects the client’s time."
+    ]
+  },
+  "contact": {
+    "eyebrow": "Booking and contact",
+    "headline": "Send a service request",
+    "text": "Choose the service type, preferred date and a convenient contact channel. We will return with a clear follow-up.",
+    "directTitle": "Direct contact",
+    "legal": "Detailed company registration data can be updated later in the configuration file and legal pages.",
+    "whatsappLabel": "WhatsApp"
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "WhatsApp / Phone",
+    "service": "Service type",
+    "date": "Preferred date",
+    "time": "Preferred time",
+    "message": "Message",
+    "success": "Your request has been sent successfully.",
+    "error": "Something went wrong. Please try again.",
+    "honeypot": "Leave this field empty",
+    "placeholderMessage": "Describe the space, system type or what you need help with.",
+    "selectPlaceholder": "Select service"
+  },
+  "consent": {
+    "title": "Analytics only with consent",
+    "text": "We use privacy-friendly first-party analytics to understand visits and clicks. Analytics are activated only after you agree.",
+    "accept": "Accept analytics",
+    "decline": "Continue without analytics",
+    "manage": "Manage cookies"
+  },
+  "legal": {
+    "privacyIntro": "This website collects only the data required to respond to service requests and, if consent is given, privacy-friendly analytics data for website improvement.",
+    "cookieIntro": "This website uses essential cookies for basic functionality and optional analytics storage only after consent.",
+    "cookieEssential": "Essential storage is used only for language routing and cookie preference state. Optional analytics storage is disabled until the user explicitly opts in.",
+    "cookieAnalytics": "The analytics implementation in this project is first-party and focused on aggregate usage: visits, views, CTA clicks, languages, sources and device type.",
+    "cookieChoice": "Users can refuse optional analytics and continue browsing the website without any reduction in core functionality.",
+    "privacyController": "Controller",
+    "privacyContact": "Contact",
+    "privacyBooking": "We process booking request data to respond to enquiries and organize requested services. Data is retained only for the period reasonably required for follow-up and legal obligations.",
+    "privacyAnalytics": "Where consent is granted, we process privacy-friendly analytics data such as page visits, button clicks, languages and device categories. No advertising profiling is enabled by default in this project.",
+    "privacyRights": "Users may request access, correction or deletion of personal data as permitted by applicable EU and Slovak law."
+  },
+  "footer": {
+    "tagline": "Installation, cleaning and service for climate systems with a precise modern standard.",
+    "rights": "All rights reserved.",
+    "contactTitle": "Contact",
+    "legalTitle": "Legal"
+  },
+  "stats": {
+    "headline": "Website statistics",
+    "visits": "Visits",
+    "pageViews": "Page views",
+    "uniqueVisitors": "Unique visitors",
+    "formSubmissions": "Form submissions",
+    "trafficSources": "Traffic sources",
+    "popularPages": "Popular pages",
+    "languages": "Language usage",
+    "devices": "Device breakdown",
+    "ctaClicks": "CTA clicks",
+    "bookings": "Recent booking requests",
+    "tableName": "Name",
+    "tableEmail": "Email",
+    "tableService": "Service",
+    "tableDate": "Date",
+    "tableLocale": "Locale",
+    "noData": "No data yet."
+  }
+}
