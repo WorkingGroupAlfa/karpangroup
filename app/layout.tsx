@@ -1,7 +1,6 @@
 import './globals.css';
 import type { Metadata } from 'next';
 import { siteConfig } from '@/lib/config';
-import { BackgroundParallax } from '@/components/background-parallax';
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.siteUrl),
@@ -17,7 +16,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="sl">
       <body className="site-shell">
-        <BackgroundParallax />
         {children}
       </body>
     </html>
