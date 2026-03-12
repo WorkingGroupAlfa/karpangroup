@@ -5,7 +5,7 @@
 :root {
   color-scheme: light;
   --site-bg-image: url('/backgrounds/alpine-hvac.jpg');
-  --site-bg-image-mobile: url('/backgrounds/2.PNG');
+  --site-bg-image-mobile: url('/backgrounds/2.jpg');
   --site-bg-fallback: linear-gradient(165deg, #d4e1f3 0%, #c1d5ec 34%, #cbdced 64%, #e2ecf9 100%);
 }
 
@@ -166,8 +166,8 @@ main {
       var(--site-bg-image-mobile),
       var(--site-bg-fallback);
     background-size: auto, cover, cover;
-    background-position: center, center top, center;
-    background-attachment: scroll, scroll, scroll;
+    background-position: center, center center, center;
+    background-attachment: fixed, fixed, fixed;
   }
 
   .site-shell::before {
@@ -189,7 +189,7 @@ main {
     pointer-events: none;
     background-image: var(--site-bg-image-mobile);
     background-repeat: no-repeat;
-    background-position: center top;
+    background-position: center center;
     background-size: cover;
     opacity: 0.18;
     filter: blur(12px) saturate(0.9) contrast(0.94) brightness(1.03);
