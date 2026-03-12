@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { defaultLocale, locales } from '@/lib/i18n';
+
+const locales = ['ua', 'de', 'sk', 'en'] as const;
+const defaultLocale = 'sk';
 
 function unauthorized() {
   return new NextResponse('Authentication required', {
@@ -16,7 +18,7 @@ export function middleware(request: NextRequest) {
     if (!auth?.startsWith('Basic ')) return unauthorized();
 
     const raw = auth.split(' ')[1];
-    const decoded = Buffer.from(raw, 'base64').toString();
+    const decoded = atob(raw);
     const [user, pass] = decoded.split(':');
 
     if (user !== process.env.ADMIN_BASIC_USER || pass !== process.env.ADMIN_BASIC_PASS) {
