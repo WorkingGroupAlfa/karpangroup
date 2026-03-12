@@ -2,6 +2,8 @@
 
 import { useMemo, useState } from 'react';
 import { trackEvent } from '@/lib/analytics';
+import { BookingAvailabilityCalendar } from '@/components/booking-availability-calendar';
+import type { Locale } from '@/lib/i18n';
 import type { Dictionary } from '@/lib/translations';
 import { services } from '@/lib/site';
 
@@ -10,11 +12,19 @@ const initialState = { name: '', email: '', phone: '', service: '', date: '', ti
 export function BookingForm({ locale, dict }: { locale: string; dict: Dictionary }) {
   const [form, setForm] = useState(initialState);
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
+  const [dateMissing, setDateMissing] = useState(false);
   const startedAt = useMemo(() => Date.now(), []);
 
   async function onSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
+    if (!form.date) {
+      setDateMissing(true);
+      setStatus('error');
+      return;
+    }
+
     setStatus('loading');
+    setDateMissing(false);
     const response = await fetch('/api/booking', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -24,6 +34,7 @@ export function BookingForm({ locale, dict }: { locale: string; dict: Dictionary
     if (response.ok) {
       setStatus('success');
       setForm(initialState);
+      setDateMissing(false);
       trackEvent({ type: 'cta_click', cta: 'booking_submit', locale, path: window.location.pathname });
     } else {
       setStatus('error');
@@ -44,8 +55,29 @@ export function BookingForm({ locale, dict }: { locale: string; dict: Dictionary
             ))}
           </select>
         </Field>
-        <Field label={dict.form.date}><input required type="date" value={form.date} onChange={(e) => setForm({ ...form, date: e.target.value })} className="input" /></Field>
         <Field label={dict.form.time}><input required type="time" value={form.time} onChange={(e) => setForm({ ...form, time: e.target.value })} className="input" /></Field>
+      </div>
+      <div className="mt-5">
+        <BookingAvailabilityCalendar
+          locale={locale as Locale}
+          selectedDate={form.date}
+          onChange={(value) => {
+            setForm({ ...form, date: value });
+            setDateMissing(false);
+          }}
+          labels={{
+            title: dict.form.date,
+            available: dict.form.calendarAvailable,
+            unavailable: dict.form.calendarUnavailable,
+            selected: dict.form.calendarSelected,
+            loading: dict.form.calendarLoading,
+            empty: dict.form.calendarEmpty,
+            previousMonth: dict.form.calendarPreviousMonth,
+            nextMonth: dict.form.calendarNextMonth,
+            helper: dict.form.calendarHelper
+          }}
+        />
+        {dateMissing && <p className="mt-3 text-sm text-red-700">{dict.form.dateRequired}</p>}
       </div>
       <div className="mt-5">
         <Field label={dict.form.message}><textarea value={form.message} onChange={(e) => setForm({ ...form, message: e.target.value })} rows={5} placeholder={dict.form.placeholderMessage} className="input resize-none" /></Field>

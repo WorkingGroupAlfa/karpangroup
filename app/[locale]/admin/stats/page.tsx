@@ -1,4 +1,5 @@
-import { readAnalytics, readBookings } from '@/lib/storage';
+import { AdminAvailabilityManager } from '@/components/admin-availability-manager';
+import { readAnalytics, readAvailability, readBookings } from '@/lib/storage';
 import { getDictionary } from '@/lib/translations';
 import { isLocale, type Locale } from '@/lib/i18n';
 import { formatNumber } from '@/lib/utils';
@@ -14,6 +15,7 @@ export default async function AdminStatsPage({ params }: { params: Promise<{ loc
   const dict = await getDictionary(locale as Locale);
   const analytics = await readAnalytics();
   const bookings = await readBookings();
+  const availability = await readAvailability();
 
   const cards = [
     { label: dict.stats.visits, value: analytics.visits },
@@ -39,6 +41,24 @@ export default async function AdminStatsPage({ params }: { params: Promise<{ loc
         <StatBlock title={dict.stats.languages} data={entries(analytics.languages)} emptyText={dict.stats.noData} />
         <StatBlock title={dict.stats.devices} data={entries(analytics.devices)} emptyText={dict.stats.noData} />
         <StatBlock title={dict.stats.ctaClicks} data={entries(analytics.ctaClicks)} emptyText={dict.stats.noData} />
+      </div>
+      <div className="mt-10">
+        <AdminAvailabilityManager
+          locale={locale as Locale}
+          initialAvailableDates={availability.availableDates}
+          labels={{
+            title: dict.stats.availabilityTitle,
+            description: dict.stats.availabilityText,
+            available: dict.stats.availabilityFree,
+            unavailable: dict.stats.availabilityBusy,
+            save: dict.stats.availabilitySave,
+            saving: dict.stats.availabilitySaving,
+            saved: dict.stats.availabilitySaved,
+            error: dict.stats.availabilityError,
+            previousMonth: dict.form.calendarPreviousMonth,
+            nextMonth: dict.form.calendarNextMonth
+          }}
+        />
       </div>
       <div className="mt-10 rounded-[28px] border border-line bg-white p-6 shadow-soft">
         <h2 className="text-2xl font-semibold">{dict.stats.bookings}</h2>

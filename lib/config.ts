@@ -8,7 +8,7 @@ export const siteConfig = {
   address: process.env.NEXT_PUBLIC_COMPANY_ADDRESS || 'Replace with registered address',
   postalCode: process.env.NEXT_PUBLIC_COMPANY_POSTAL_CODE || '00000',
   ico: process.env.NEXT_PUBLIC_COMPANY_ICO || '',
-  defaultLocale: process.env.NEXT_PUBLIC_DEFAULT_LOCALE || 'sl',
+  defaultLocale: process.env.NEXT_PUBLIC_DEFAULT_LOCALE || 'sk',
   bookingReceiverEmail: process.env.BOOKING_RECEIVER_EMAIL || process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'hello@karpanclimate.sk',
   contactSubject: process.env.NEXT_PUBLIC_CONTACT_MESSAGE_SUBJECT || 'Service request from website'
 };

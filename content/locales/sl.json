@@ -1,238 +1,238 @@
 {
   "meta": {
     "siteTitle": "Karpan Climate Service",
-    "siteDescription": "Premium montaža, čiščenje in servis klimatskih naprav, ogrevanja, toplotnih črpalk in MaR sistemov.",
-    "homeTitle": "Klimatski sistemi z natančnim servisom",
-    "servicesTitle": "Storitve",
+    "siteDescription": "Montaz, cistenie a servis klimatizacii, vykurovania, tepelnych cerpadiel a MaR systemov s individualnym vyberom zariadenia podla potrieb objektu.",
+    "homeTitle": "Klimaticke systemy s preciznym servisom",
+    "servicesTitle": "Sluzby",
     "aboutTitle": "O nas",
-    "contactTitle": "Kontakt in povpraševanje",
-    "privacyTitle": "Politika zasebnosti",
-    "cookieTitle": "Politika piškotkov",
-    "adminTitle": "Admin statistika"
+    "contactTitle": "Kontakt a dopyt",
+    "privacyTitle": "Zasady ochrany sukromia",
+    "cookieTitle": "Zasady pouzivania cookies",
+    "adminTitle": "Administracna statistika"
   },
   "nav": {
     "home": "Domov",
-    "services": "Storitve",
+    "services": "Sluzby",
     "about": "O nas",
-    "contact": "Povpraševanje",
-    "privacy": "Zasebnost",
-    "cookies": "Piškotki",
-    "admin": "Statistika",
-    "menu": "Meni"
+    "contact": "Dopyt",
+    "privacy": "Sukromie",
+    "cookies": "Cookies",
+    "admin": "Statistiky",
+    "menu": "Menu"
   },
   "cta": {
     "whatsapp": "WhatsApp",
-    "email": "E-pošta",
-    "booking": "Zahteva za servis",
-    "learnMore": "Več informacij",
-    "send": "Pošlji povpraševanje",
-    "viewServices": "Prikaži storitve"
+    "email": "Email",
+    "booking": "Poziadat o servis",
+    "learnMore": "Viac informacii",
+    "send": "Odoslat dopyt",
+    "viewServices": "Zobrazit sluzby"
   },
   "home": {
-    "eyebrow": "Klimatski servis za dom in poslovne prostore",
-    "headline": "Sodobna klimatska storitev za domove, pisarne in tehnične prostore.",
-    "subheadline": "Montaža, čiščenje in dolgoročno vzdrževanje klimatskih naprav, ogrevanja, toplotnih črpalk in MaR sistemov.",
-    "servicesTitle": "Ključne storitve",
-    "servicesText": "Jasna storitvena arhitektura za slovaški trg in lažje odločanje.",
-    "whyTitle": "Zakaj stranke izberejo Karpan Climate Service",
+    "eyebrow": "Klimaticky servis pre domacnosti a firmy",
+    "headline": "Servis klimatizacii, vykurovania a tepelnych cerpadiel s individualnym vyberom zariadenia podla objektu a potrieb klienta.",
+    "subheadline": "Montaz, cistenie a dlhodoba starostlivost o klimatizacie, vykurovanie, tepelne cerpadla a MaR systemy, s individualnym vyberom techniky podla velkosti priestoru, sposobu pouzivania, rozpoctu a narokov na efektivitu.",
+    "servicesTitle": "Hlavne sluzby",
+    "servicesText": "Prakticke sluzby pre domacnosti a firmy s jasnym odporucanim a individualnym vyberom vhodneho zariadenia pre kazdy projekt.",
+    "whyTitle": "Preco si klienti vyberaju Karpan Climate Service",
     "whyItems": [
-      "Natančna montaža in čista izvedba",
-      "Sodobna oprema in skrbna diagnostika",
-      "Hitra digitalna komunikacija prek WhatsAppa in e-pošte",
-      "Servis, usmerjen v udobje, učinkovitost in zanesljivost"
+      "Precizna montaz a ciste prevedenie",
+      "Moderne vybavenie a dosledna diagnostika",
+      "Rychla digitalna komunikacia cez WhatsApp a email",
+      "Servis zamerany na komfort, efektivitu a spolahlivu prevadzku"
     ],
-    "expertiseTitle": "Področja strokovnosti",
+    "expertiseTitle": "Oblasti odbornosti",
     "expertiseItems": [
-      "Klimatski sistemi",
-      "Ogrevalni sistemi",
-      "Toplotne črpalke",
-      "MaR / regulacijski sistemi",
-      "Stanovanjski objekti",
-      "Poslovni prostori"
+      "Klimatizacne systemy",
+      "Vykurovacie systemy",
+      "Tepelne cerpadla",
+      "MaR / regulacia a riadenie",
+      "Rezidencne objekty",
+      "Komerčne priestory"
     ],
-    "processTitle": "Kako poteka sodelovanje",
+    "processTitle": "Ako prebieha spolupraca",
     "processItems": [
       {
-        "title": "Povpraševanje",
-        "text": "Pošljete kratko povpraševanje z vrsto storitve, želenim terminom in osnovnimi podatki."
+        "title": "Dopyt",
+        "text": "Poslete kratku poziadavku s typom sluzby, preferovanym terminom a zakladnymi informaciami."
       },
       {
-        "title": "Potrditev",
-        "text": "Povpraševanje pregledamo in potrdimo obseg, termin ter naslednje korake."
+        "title": "Potvrdenie",
+        "text": "Dopyt skontrolujeme a potvrdime rozsah prac, termin aj dalsie kroky."
       },
       {
-        "title": "Izvedba",
-        "text": "Montaža, čiščenje ali servis so izvedeni skrbno in tehnično natančno."
+        "title": "Realizacia",
+        "text": "Montaz, cistenie alebo servis prebiehaju starostlivo, technicky spravne a bez zbytocneho chaosu."
       },
       {
         "title": "Podpora",
-        "text": "Po posegu komunikacija ostane jasna za vzdrževanje in nadaljnje potrebe."
+        "text": "Po ukonceni prac zostava komunikacia jasna aj pre dalsiu udrzbu a buduce poziadavky."
       }
     ],
-    "bookingTitle": "Oddajte servisno povpraševanje",
-    "bookingText": "Čist digitalni obrazec za praktično načrtovanje brez nepotrebnega trenja.",
-    "aboutTitle": "Profesionalni klimatski sistemi s sodobnim servisnim standardom",
-    "aboutText": "Karpan Climate Service je pozicioniran kot natančen inženirski partner za kakovost zraka, učinkovitost ogrevanja in stabilne regulacijske sisteme. Enak standard odraža tudi spletna izkušnja: jasnost, zaupanje in tehnična zanesljivost.",
+    "bookingTitle": "Odoslite servisny dopyt",
+    "bookingText": "Poslite zakladne informacie o objekte a poziadavkach a my navrhneme vhodne riesenie, rozsah prac aj dalsi postup.",
+    "aboutTitle": "Klimaticke a vykurovacie riesenia prisposobene klientovi, objektu a pozadovanemu vykonu",
+    "aboutText": "Karpan Climate Service pomaha vyberat klimatizacie, vykurovanie a tepelne cerpadla tak, aby zodpovedali priestoru, zatazi, hlukovym narokom aj energetickym prioritam. Namiesto univerzalnych balikov odporucame riesenia, ktore davaju zmysel v realnej prevadzke.",
     "heroBadge": "Klima / HVAC / MaR",
-    "heroDescription": "Zasnovano tako, da deluje natančno, mirno in tehnično zanesljivo brez vizualnega šuma običajne servisne strani.",
-    "heroCoreFocusLabel": "Glavni fokus",
-    "heroCoreFocusText": "Montaža, servis, ogrevanje, toplotne črpalke.",
-    "heroLeadPathLabel": "Pot kontakta",
-    "heroLeadPathText": "WhatsApp, e-pošta in povpraševanje - brez odvečnega."
+    "heroDescription": "Montujeme a servisujeme systemy vybrane podla skutocneho dispozicneho riesenia, sposobu pouzivania a ocakavaneho komfortu klienta.",
+    "heroCoreFocusLabel": "Hlavne zameranie",
+    "heroCoreFocusText": "Montaz, servis, vykurovanie, tepelne cerpadla a individualny vyber zariadenia.",
+    "heroLeadPathLabel": "Kontaktna cesta",
+    "heroLeadPathText": "WhatsApp, email a formular dopytu pre rychlu konzultaciu a odporucenie vhodneho riesenia."
   },
   "servicesPage": {
-    "eyebrow": "Storitvena arhitektura",
-    "headline": "Klima, ogrevanje in regulacijski sistemi z natančno izvedbo.",
-    "text": "Vsaka stran storitve je oblikovana za jasnost, zaupanje in praktično odločanje."
+    "eyebrow": "Prehlad sluzieb",
+    "headline": "Klima, vykurovanie a riadiace systemy s vyberom, montazou a servisom podla realnych podmienok objektu.",
+    "text": "Pomahame porovnat moznosti, vybrat vhodne zariadenie a zabezpecit spolahlivu montaz aj udrzbu pre byty, domy, kancelarie a technicke priestory."
   },
   "serviceCards": {
     "installation": {
-      "title": "Montaža klimatske naprave",
-      "excerpt": "Nova montaža split in multi-split sistemov s čisto izvedbo in zanesljivo nastavitvijo."
+      "title": "Montaz klimatizacie",
+      "excerpt": "Montaz split a multi-split systemov so spravnym dimenzovanim, cistym prevedenim a vyberom techniky pre konkretny priestor."
     },
     "cleaning": {
-      "title": "Čiščenje klimatske naprave",
-      "excerpt": "Globinsko čiščenje s poudarkom na higieni, kakovosti zraka in učinkovitosti sistema."
+      "title": "Cistenie klimatizacie",
+      "excerpt": "Hlbkove cistenie zamerane na hygienu, kvalitu vzduchu a obnovenie stabilneho vykonu systemu."
     },
     "service": {
-      "title": "Servis klimatske naprave",
-      "excerpt": "Preventivno vzdrževanje, diagnostika in servis za stabilno delovanje."
+      "title": "Servis klimatizacie",
+      "excerpt": "Diagnostika, preventivna udrzba a servis pre spolahlivu kazdodennu prevadzku."
     },
     "heating": {
-      "title": "Ogrevalni sistemi",
-      "excerpt": "Rešitve ogrevanja za udobje v domovih, pisarnah in tehničnih prostorih."
+      "title": "Vykurovacie systemy",
+      "excerpt": "Servis vykurovania a odporucanie techniky podla typu budovy a sposobu pouzivania."
     },
     "heatPumps": {
-      "title": "Toplotne črpalke",
-      "excerpt": "Učinkovite rešitve toplotnih črpalk s sodobnim tehničnim standardom."
+      "title": "Tepelne cerpadla",
+      "excerpt": "Riesenia tepelnych cerpadiel vyberane podla efektivity, typu objektu a dlhodobych prevadzkovych nakladov."
     },
     "mar": {
-      "title": "MaR / regulacijski sistemi",
-      "excerpt": "Merjenje, regulacija in pametna logika vodenja za zanesljivo obratovanje."
+      "title": "MaR / riadiace systemy",
+      "excerpt": "Meranie, regulacia a riadenie pre stabilnu prevadzku, prehlad a lepsiu kontrolu systemu."
     }
   },
   "servicePages": {
     "installation": {
-      "title": "Montaža klimatske naprave",
-      "intro": "Montaža z osredotočenostjo na čisto izvedbo, pravilno dimenzioniranje in dolgoročno obratovalno zanesljivost.",
+      "title": "Montaz klimatizacie",
+      "intro": "Montaz so spravnym dimenzovanim, premyslenym umiestnenim a technikou vybranou podla miestnosti, zataze a narokov na komfort.",
       "body": [
-        "Montažo obravnavamo kot del celotnega sistema objekta, ne kot hitro enodnevno opravilo. Pravilna postavitev, učinkovito trasiranje in skrbna zaključna dela vplivajo na udobje, hrup in dolgoročno zanesljivost.",
-        "Arhitektura strani podpira stanovanjska in manjša poslovna povpraševanja z jasnim digitalnim prehodom prek WhatsAppa, e-pošte in obrazca."
+        "Montaz berieme ako sucast technickeho systemu budovy, nie ako rychly jednorazovy zasah. Umiestnenie, vedenie tras a dokoncovacie prace ovplyvnuju komfort, hlucnost, spotrebu energie aj zivotnost zariadenia.",
+        "Pred montazou pomahame vybrat klimatizaciu alebo multi-split riesenie, ktore zodpoveda velkosti miestnosti, urovni izolacie, sposobu pouzivania a rozpoctu klienta."
       ]
     },
     "cleaning": {
-      "title": "Čiščenje klimatske naprave",
-      "intro": "Redno čiščenje varuje kakovost zraka, učinkovitost in splošno stanje enote.",
+      "title": "Cistenie klimatizacie",
+      "intro": "Pravidelne cistenie chrani kvalitu vzduchu, vykon zariadenia a jeho celkovy technicky stav.",
       "body": [
-        "Čiščenje je predstavljeno kot odgovorno vzdrževalno dejanje, ne kot generični dodatek. Sporočila ostajajo mirna, praktična in usmerjena v higieno.",
-        "Takšna struktura je učinkovita za stranke, ki cenijo zaupanje, natančno delo in enostavno načrtovanje."
+        "Cistenie je dolezity krok udrzby, ktory chrani hygienu, prudenie vzduchu a efektivitu systemu pocas celej sezony.",
+        "Pravidelne cistenie zaroven pomaha udrzat vybrane zariadenie blizsie k planovanemu vykonu a predlzuje jeho zivotnost."
       ]
     },
     "service": {
-      "title": "Servis klimatske naprave / vzdrževanje",
-      "intro": "Preventivni in korektivni servis za stabilno, učinkovito in zanesljivo delovanje sistemov.",
+      "title": "Servis klimatizacie / udrzba",
+      "intro": "Preventivny aj operativny servis pre stabilnu, efektivnu a spolahlivu prevadzku systemov.",
       "body": [
-        "Stran servisa uravnoteži tehnično jasnost in UX, usmerjen v povpraševanje. Primerna je tako za gospodinjstva kot za manjše poslovne uporabnike.",
-        "Diagnostika, sezonski pregledi in redno vzdrževanje so predstavljeni v profesionalnem in nadzorovanem tonu."
+        "Zabezpecujeme diagnostiku, sezonny servis a pravidelnu udrzbu zariadeni v bytoch, domoch, kancelariach aj mensich prevadzkach.",
+        "Ak system nefunguje podla ocakavania, posudime, ci je najlepsim dalsim krokom servis, nastavenie alebo vymena zariadenia za vhodnejsie riesenie."
       ]
     },
     "heating": {
-      "title": "Ogrevalni sistemi",
-      "intro": "Podpora ogrevanju, zasnovana okoli udobja, stabilnosti sistema in praktične učinkovitosti.",
+      "title": "Vykurovacie systemy",
+      "intro": "Podpora vykurovania postavena na komforte, stabilite systemu a rozumnej prevadzkovej efektivite.",
       "body": [
-        "Na področju ogrevanja je podjetje predstavljeno kot sodoben servisni partner za klasične in posodobljene sisteme.",
-        "Vizualni slog ostaja zadržan in premijski, skladno z zaupanjem, ki ga zahtevajo tehnične odločitve."
+        "Vykurovacie systemy podporujeme praktickym servisom, kontrolou a odporucaniami podla typu budovy, poziadaviek na komfort a prevadzkovej efektivity.",
+        "V pripade potreby pomahame vybrat modernizaciu alebo nahradne zariadenie, ktore bude lepsie vyhovovat objektu a beznemu pouzivaniu."
       ]
     },
     "heatPumps": {
-      "title": "Toplotne črpalke",
-      "intro": "Učinkovite rešitve toplotnih črpalk z jasnim poudarkom na udobju, zmogljivosti in sodobnem obratovanju.",
+      "title": "Tepelne cerpadla",
+      "intro": "Efektivne riesenia tepelnych cerpadiel s jasnym dorazom na komfort, vykon a modernu prevadzku.",
       "body": [
-        "Toplotne črpalke zahtevajo mirno in informirano razlago. Vsebina se zato osredotoča na pravilno načrtovanje, servisabilnost in zanesljivo uporabo.",
-        "Takšno pozicioniranje pomaga pridobivati kakovostna povpraševanja strank, ki cenijo premijski servisni vtis."
+        "Tepelne cerpadla vyzaduju realisticke planovanie a spravne navrhnutie. Pomahame vybrat system podla objektu, urovne izolacie, potreby teplej vody a ocakavanych prevadzkovych nakladov.",
+        "Vysledkom je riesenie nastavene na dlhodobu efektivitu, stabilny komfort a servisovatelnost, nie univerzalne produktove odporucanie."
       ]
     },
     "mar": {
-      "title": "MaR / regulacijski sistemi",
-      "intro": "Sistemi merjenja in regulacije za boljšo preglednost, nadzor in stabilno obratovanje.",
+      "title": "MaR / riadiace systemy",
+      "intro": "Systemy merania a regulacie pre lepsi prehlad, presnejsie riadenie a stabilnu prevadzku.",
       "body": [
-        "Stran MaR razširi podobo podjetja iz standardne HVAC prisotnosti v tehnično bolj kredibilno inženirsko storitveno znamko.",
-        "Jezik je oblikovan tako, da ostane dostopen, hkrati pa natančen in profesionalen."
+        "Systemy merania a regulacie pomahaju udrzat HVAC a vykurovaciu techniku stabilnu, prehladnu a jednoduchsie riaditelnu.",
+        "Logiku regulacie a komponenty prisposobujeme realnej zostave tak, aby vybrane zariadenia spolupracovali predvidatelne a bez zbytocnych strat."
       ]
     }
   },
   "about": {
-    "eyebrow": "O podjetju",
-    "headline": "Natančen inženirski pristop za sodobne klimatske sisteme.",
+    "eyebrow": "O spolocnosti",
+    "headline": "Technicky servis a vyber zariadenia prisposobeny klientovi, objektu a dlhodobej spolahlivosti.",
     "body": [
-      "Karpan Climate Service je zasnovan kot premijska lokalna servisna znamka za stranke, ki pričakujejo tehnično pravilnost, čisto izvedbo in jasno komunikacijo.",
-      "Področje dela vključuje montažo, čiščenje, vzdrževanje, ogrevanje, toplotne črpalke in MaR-podporo z digitalnim kontaktnim procesom, ki spoštuje čas stranke."
+      "Karpan Climate Service pracuje pre klientov, ktori chcu ciste prevedenie, poctive odporucania a techniku zodpovedajucu realnym prevadzkovym podmienkam namiesto univerzalnych predajnych balikov.",
+      "Rozsah sluzieb zahna montaz, cistenie, udrzbu, vykurovanie, tepelne cerpadla aj MaR podporu s individualnym vyberom vhodneho zariadenia podla typu objektu, dispozicie, narokov na komfort a rozpoctu."
     ]
   },
   "contact": {
-    "eyebrow": "Povpraševanje in kontakt",
-    "headline": "Pošljite servisno povpraševanje",
-    "text": "Izberite vrsto storitve, želeni datum in primeren kontaktni kanal. Odgovorimo z jasnimi naslednjimi koraki.",
-    "directTitle": "Neposreden kontakt",
-    "legal": "Podrobne registracijske podatke podjetja lahko pozneje dopolnite v konfiguraciji in pravnih straneh.",
+    "eyebrow": "Dopyt a kontakt",
+    "headline": "Poslite servisny dopyt",
+    "text": "Vyberte typ sluzby, preferovany datum a kontakt a napiste zakladne informacie o objekte, aby sme vedeli pripravit vhodne odporucanie a dalsi krok.",
+    "directTitle": "Priamy kontakt",
+    "legal": "Uplne firemne udaje a pravne informacie najdete na pravnych strankach alebo vam ich poskytneme priamo na poziadanie.",
     "whatsappLabel": "WhatsApp"
   },
   "form": {
-    "name": "Ime",
-    "email": "E-pošta",
+    "name": "Meno",
+    "email": "Email",
     "phone": "WhatsApp / Telefon",
-    "service": "Vrsta storitve",
-    "date": "Želeni datum",
-    "time": "Želeni čas",
-    "message": "Sporočilo",
-    "success": "Vaše povpraševanje je bilo uspešno poslano.",
-    "error": "Prišlo je do napake. Poskusite znova.",
-    "honeypot": "To polje pustite prazno",
-    "placeholderMessage": "Opišite prostor, tip sistema ali s čim potrebujete pomoč.",
-    "selectPlaceholder": "Izberite storitev"
+    "service": "Typ sluzby",
+    "date": "Preferovany datum",
+    "time": "Preferovany cas",
+    "message": "Sprava",
+    "success": "Vas dopyt bol uspesne odoslany.",
+    "error": "Doslo k chybe. Skuste to znova.",
+    "honeypot": "Toto pole nechajte prazdne",
+    "placeholderMessage": "Opiste objekt, velkost priestoru, aktualny system alebo aku techniku a servis potrebujete.",
+    "selectPlaceholder": "Vyberte sluzbu"
   },
   "consent": {
-    "title": "Analitika samo z vašim soglasjem",
-    "text": "Uporabljamo privacy-friendly first-party analitiko za razumevanje obiskov in klikov. Analitika se aktivira šele po vašem soglasju.",
-    "accept": "Dovoli analitiko",
-    "decline": "Nadaljuj brez analitike",
-    "manage": "Upravljaj piškotke"
+    "title": "Analytika len s vasim suhlasom",
+    "text": "Pouzivame privacy-friendly first-party analytiku, aby sme lepsie rozumeli navstevam a kliknutiam. Aktivuje sa az po vasom suhlase.",
+    "accept": "Povolit analytiku",
+    "decline": "Pokracovat bez analytiky",
+    "manage": "Spravovat cookies"
   },
   "legal": {
-    "privacyIntro": "To spletno mesto zbira le podatke, potrebne za odgovor na servisna povpraševanja, in ob soglasju še privacy-friendly analitične podatke za izboljšanje strani.",
-    "cookieIntro": "To spletno mesto uporablja nujne piškotke za osnovno delovanje ter opcijsko analitično hrambo šele po podanem soglasju.",
-    "cookieEssential": "Nujna hramba se uporablja samo za jezikovno usmerjanje in stanje soglasja za piškotke. Opcijska analitika je izklopljena, dokler uporabnik tega izrecno ne dovoli.",
-    "cookieAnalytics": "Analitika v tem projektu je first-party in osredotočena na agregirano rabo: obiski, ogledi, CTA-kliki, jeziki, viri in tip naprave.",
-    "cookieChoice": "Uporabnik lahko opcijsko analitiko zavrne in nadaljuje uporabo spletnega mesta brez omejitve osnovne funkcionalnosti.",
-    "privacyController": "Upravljavec",
+    "privacyIntro": "Tato webstranka zhromazduje iba udaje potrebne na odpoved na servisne dopyty a po udeleni suhlasu aj analyticke udaje setrne k sukromiu na zlepsovanie webu.",
+    "cookieIntro": "Tato webstranka pouziva nevyhnutne cookies pre zakladnu funkcnost a volitelne analyticke ulozisko az po udeleni suhlasu.",
+    "cookieEssential": "Nevyhnutne ulozisko sa pouziva len na jazykove smerovanie a stav suhlasu s cookies. Volitelna analytika ostava vypnuta, kym ju navstevnik vyslovne nepovoli.",
+    "cookieAnalytics": "Analytika v tomto projekte je first-party a zameriava sa na agregovane udaje: navstevy, zobrazenia, kliknutia na CTA, jazyky, zdroje a typ zariadenia.",
+    "cookieChoice": "Pouzivatel moze volitelnu analytiku odmietnut a stale pouzivat web bez obmedzenia zakladnej funkcnosti.",
+    "privacyController": "Prevadzkovatel",
     "privacyContact": "Kontakt",
-    "privacyBooking": "Podatke iz povpraševanja obdelujemo za odgovor in organizacijo zahtevanih storitev. Podatki se hranijo le toliko časa, kolikor je razumno potrebno za nadaljnje korake in pravne obveznosti.",
-    "privacyAnalytics": "Ob podanem soglasju obdelujemo privacy-friendly analitične podatke, kot so obiski strani, kliki gumbov, jeziki in kategorije naprav. Oglasno profiliranje v projektu privzeto ni omogočeno.",
-    "privacyRights": "Uporabnik lahko zahteva dostop, popravek ali izbris osebnih podatkov v obsegu, ki ga dovoljujeta pravo EU in slovaška zakonodaja."
+    "privacyBooking": "Udaje zo servisnych formularov spracuvame na odpoved a organizaciu pozadovanych sluzieb. Uchovavame ich len po dobu rozumne potrebnu na nadvazujucu komunikaciu a splnenie pravnych povinnosti.",
+    "privacyAnalytics": "Ak je udeleny suhlas, spracuvame analyticke udaje setrne k sukromiu, napríklad navstevy stranok, kliknutia na tlacidla, jazyky a kategorie zariadeni. Reklamne profilovanie nie je v tomto projekte predvolene aktivne.",
+    "privacyRights": "Pouzivatel moze poziadat o pristup, opravu alebo vymaz osobnych udajov v rozsahu, ktory umoznuje pravo EU a slovenska legislativa."
   },
   "footer": {
-    "tagline": "Montaža, čiščenje in servis klimatskih sistemov z natančnim sodobnim standardom.",
-    "rights": "Vse pravice pridržane.",
+    "tagline": "Montaz, cistenie a servis klimatickych systemov s individualnym vyberom zariadenia pre domacnosti aj firmy.",
+    "rights": "Vsetky prava vyhradene.",
     "contactTitle": "Kontakt",
-    "legalTitle": "Pravno"
+    "legalTitle": "Pravne"
   },
   "stats": {
-    "headline": "Statistika spletnega mesta",
-    "visits": "Obiski",
-    "pageViews": "Ogledi strani",
-    "uniqueVisitors": "Unikatni obiskovalci",
-    "formSubmissions": "Poslani obrazci",
-    "trafficSources": "Viri prometa",
-    "popularPages": "Najbolj obiskane strani",
-    "languages": "Uporaba jezikov",
-    "devices": "Naprave",
-    "ctaClicks": "CTA kliki",
-    "bookings": "Zadnja servisna povpraševanja",
-    "tableName": "Ime",
-    "tableEmail": "E-pošta",
-    "tableService": "Storitev",
+    "headline": "Statistiky webu",
+    "visits": "Navstevy",
+    "pageViews": "Zobrazenia stranok",
+    "uniqueVisitors": "Unikatni navstevnici",
+    "formSubmissions": "Odoslane formulare",
+    "trafficSources": "Zdroje navstevnosti",
+    "popularPages": "Najnavstevovanejsie stranky",
+    "languages": "Pouzitie jazykov",
+    "devices": "Zariadenia",
+    "ctaClicks": "Kliknutia na CTA",
+    "bookings": "Posledne servisne dopyty",
+    "tableName": "Meno",
+    "tableEmail": "Email",
+    "tableService": "Sluzba",
     "tableDate": "Datum",
-    "tableLocale": "Jezik",
-    "noData": "Še ni podatkov."
+    "tableLocale": "Jazyk",
+    "noData": "Zatial nie su k dispozicii ziadne data."
   }
 }

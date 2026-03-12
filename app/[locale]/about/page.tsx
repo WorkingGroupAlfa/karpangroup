@@ -17,6 +17,10 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
           <Card key={`${index}-${paragraph}`}><p className="text-base leading-8 text-muted">{paragraph}</p></Card>
         ))}
       </div>
+      <Card className="mt-5 max-w-3xl">
+        <span className="eyebrow">{dict.about.brandTitle}</span>
+        <p className="text-base leading-8 text-muted">{dict.about.brandText}</p>
+      </Card>
     </div>
   );
 }

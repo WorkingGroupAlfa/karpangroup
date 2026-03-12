@@ -1,4 +1,5 @@
 import { Hero } from '@/components/hero';
+import { ServicesMarquee } from '@/components/services-marquee';
 import { ServiceGrid } from '@/components/service-grid';
 import { FeatureList } from '@/components/feature-list';
 import { ProcessSection } from '@/components/process-section';
@@ -17,6 +18,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   return (
     <>
       <Hero locale={locale} dict={dict} />
+      <ServicesMarquee locale={locale as Locale} />
       <ServiceGrid locale={locale as Locale} dict={dict} />
       <section className="section grid gap-5 py-16 lg:grid-cols-2">
         <FeatureList title={dict.home.whyTitle} items={dict.home.whyItems} />
@@ -33,6 +35,10 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <BookingForm locale={locale} dict={dict} />
           </div>
         </div>
+        <Card className="mt-5 lg:max-w-3xl">
+          <span className="eyebrow">{dict.home.brandTitle}</span>
+          <p className="text-lg leading-8 text-muted">{dict.home.brandText}</p>
+        </Card>
       </section>
       <ContactCta locale={locale} dict={dict} />
     </>

@@ -1,7 +1,7 @@
 {
   "meta": {
     "siteTitle": "Karpan Climate Service",
-    "siteDescription": "Premium-Montage, Reinigung und Service für Klimaanlagen, Heizung, Wärmepumpen und MaR-Systeme.",
+    "siteDescription": "Montage, Reinigung und Service fuer Klimaanlagen, Heizung, Waermepumpen und MaR-Systeme mit individueller Geraeteauswahl passend zum Objekt.",
     "homeTitle": "Klimasysteme mit präzisem Service",
     "servicesTitle": "Leistungen",
     "aboutTitle": "Über uns",
@@ -30,10 +30,10 @@
   },
   "home": {
     "eyebrow": "Klimaservice für Wohn- und Gewerbeobjekte",
-    "headline": "Moderner Klimaservice für Häuser, Büros und technische Räume.",
-    "subheadline": "Installation, Reinigung und langfristiger Service für Klimaanlagen, Heizung, Wärmepumpen und MaR-Systeme.",
+    "headline": "Klima-, Heizungs- und Waermepumpenservice mit individuell auf Objekt und Bedarf abgestimmter Geraeteauswahl.",
+    "subheadline": "Installation, Reinigung und langfristiger Service fuer Klimaanlagen, Heizung, Waermepumpen und MaR-Systeme mit individueller Auswahl der passenden Technik nach Raumgroesse, Nutzung, Budget und Effizienzziel.",
     "servicesTitle": "Kernleistungen",
-    "servicesText": "Klare Leistungsstruktur für den slowakischen Markt und einfache Entscheidungen.",
+    "servicesText": "Praxisnahe Leistungen fuer Wohn- und Gewerbeobjekte mit klaren Empfehlungen und individueller Auswahl der passenden Ausstattung.",
     "whyTitle": "Warum Kundinnen und Kunden Karpan Climate Service wählen",
     "whyItems": [
       "Präzise Montage und saubere Ausführung",
@@ -70,111 +70,115 @@
       }
     ],
     "bookingTitle": "Serviceanfrage senden",
-    "bookingText": "Ein klares digitales Formular für praktische Terminplanung ohne unnötige Reibung.",
-    "aboutTitle": "Professionelle Klimasysteme mit modernem Service-Standard",
-    "aboutText": "Karpan Climate Service positioniert sich als technischer Partner für Luftqualität, Heizeffizienz und stabile Regelungssysteme. Das Website-Erlebnis folgt demselben Anspruch: Klarheit, Vertrauen und technische Souveränität.",
+    "bookingText": "Senden Sie die wichtigsten Angaben zu Objekt und Bedarf, und wir empfehlen eine passende Loesung, den sinnvollen Leistungsumfang und den naechsten Schritt.",
+    "aboutTitle": "Klima- und Heizloesungen, passend zu Kunde, Objekt und geforderter Leistung",
+    "aboutText": "Karpan Climate Service hilft bei der Auswahl von Klima-, Heiz- und Waermepumpentechnik, die zu Flaeche, Nutzung, Lautstaerkeanspruch und Energiekosten passt. Statt Standardpaketen stehen Loesungen im Mittelpunkt, die unter realen Bedingungen sinnvoll funktionieren.",
+    "brandTitle": "Technikauswahl",
+    "brandText": "Wir arbeiten mit Produkten fuehrender internationaler Marken und helfen dabei, die passende Loesung fuer Objekt, Nutzung und Budget auszuwaehlen statt eine starre Standardoption zu verkaufen.",
     "heroBadge": "Klima / HVAC / MaR",
-    "heroDescription": "Konzipiert für einen präzisen, ruhigen und technisch verlässlichen Eindruck ohne den visuellen Lärm einer typischen Handwerkerseite.",
+    "heroDescription": "Wir montieren und warten Systeme, die passend zum Grundriss, zur Nutzung und zu den Komforterwartungen des Kunden ausgewaehlt werden.",
     "heroCoreFocusLabel": "Kernfokus",
-    "heroCoreFocusText": "Montage, Service, Heizung, Wärmepumpen.",
+    "heroCoreFocusText": "Montage, Service, Heizung, Waermepumpen und individuelle Geraeteauswahl.",
     "heroLeadPathLabel": "Kontaktweg",
-    "heroLeadPathText": "WhatsApp, E-Mail und Anfrage - ohne Umwege."
+    "heroLeadPathText": "WhatsApp, E-Mail und Anfrageformular fuer schnelle Beratung und passende Empfehlungen."
   },
   "servicesPage": {
-    "eyebrow": "Leistungsarchitektur",
-    "headline": "Klima-, Heiz- und Regelungssysteme mit präziser Ausführung.",
-    "text": "Jede Leistungsseite ist auf Klarheit, Vertrauen und praxisnahe Entscheidungen ausgelegt."
+    "eyebrow": "Leistungsueberblick",
+    "headline": "Klima-, Heiz- und Regelungssysteme mit Auswahl, Montage und Service nach den realen Bedingungen vor Ort.",
+    "text": "Wir helfen beim Vergleichen von Optionen, bei der Auswahl geeigneter Geraete und bei zuverlaessiger Montage und Wartung fuer Wohnungen, Haeuser, Bueros und Technikraeume."
   },
   "serviceCards": {
     "installation": {
       "title": "Klimaanlagen-Montage",
-      "excerpt": "Neue Split- und Multi-Split-Montage mit sauberer Ausführung und verlässlicher Inbetriebnahme."
+      "excerpt": "Split- und Multi-Split-Montage mit korrekter Dimensionierung, sauberer Ausfuehrung und passender Geraeteauswahl."
     },
     "cleaning": {
       "title": "Klimaanlagen-Reinigung",
-      "excerpt": "Tiefenreinigung mit Fokus auf Hygiene, Luftqualität und Systemleistung."
+      "excerpt": "Tiefenreinigung mit Fokus auf Hygiene, Luftqualitaet und stabile Systemleistung."
     },
     "service": {
       "title": "Klimaanlagen-Service",
-      "excerpt": "Präventive Wartung, Diagnostik und serviceorientierte Stabilisierung der Leistung."
+      "excerpt": "Diagnostik, vorbeugende Wartung und Reparaturunterstuetzung fuer verlaesslichen Alltagsbetrieb."
     },
     "heating": {
       "title": "Heizsysteme",
-      "excerpt": "Komfortorientierte Heizlösungen für Wohn-, Büro- und Technikbereiche."
+      "excerpt": "Heizungsservice und Technikempfehlungen passend zu Gebaeude und Nutzungsverhalten."
     },
     "heatPumps": {
       "title": "Wärmepumpen",
-      "excerpt": "Effiziente Wärmepumpenlösungen mit modernem technischem Standard."
+      "excerpt": "Waermepumpenloesungen abgestimmt auf Effizienz, Objektart und langfristige Betriebskosten."
     },
     "mar": {
       "title": "MaR- und Regelungssysteme",
-      "excerpt": "Messung, Regelung und intelligente Logik für zuverlässigen Betrieb."
+      "excerpt": "Mess-, Regel- und Steuerungsloesungen fuer stabilen Betrieb und bessere Systemkontrolle."
     }
   },
   "servicePages": {
     "installation": {
       "title": "Klimaanlagen-Montage",
-      "intro": "Montage mit Fokus auf saubere Ausführung, korrekte Dimensionierung und langfristig verlässlichen Betrieb.",
+      "intro": "Montage mit korrekter Dimensionierung, sauberer Platzierung und Technik, die zu Raeumen, Lastprofil und Komfortanspruch passt.",
       "body": [
-        "Wir behandeln die Montage als Teil des Gesamtsystems im Gebäude, nicht als schnellen Ein-Tages-Einsatz. Positionierung, Leitungsführung und sauberes Finish beeinflussen Komfort, Lautstärke und Zuverlässigkeit.",
-        "Die Seitenstruktur unterstützt Anfragen aus Wohn- und kleinen Gewerbeprojekten mit klaren Kontaktwegen über WhatsApp, E-Mail und Anfrageformular."
+        "Wir betrachten die Montage als Teil des gesamten Gebaeudesystems und nicht als schnellen Ein-Tages-Einsatz. Positionierung, Leitungsfuehrung und sauberes Finish beeinflussen Komfort, Lautstaerke, Energieverbrauch und Zuverlaessigkeit.",
+        "Vor der Installation helfen wir bei der Auswahl einer Klimaanlage oder Multi-Split-Loesung, die zu Raumgroesse, Daemmstandard, Nutzung und Budget des Kunden passt."
       ]
     },
     "cleaning": {
       "title": "Klimaanlagen-Reinigung",
       "intro": "Regelmäßige Reinigung schützt Luftqualität, Effizienz und den allgemeinen Zustand der Anlage.",
       "body": [
-        "Reinigung wird als verantwortliche Wartungsmaßnahme vermittelt, nicht als beliebiger Zusatz. Sprache und Struktur bleiben ruhig, praktisch und hygieneorientiert.",
-        "Das Format passt zu Kundinnen und Kunden, die Vertrauen, saubere Arbeit und einfache Terminvereinbarung schätzen."
+        "Die Reinigung ist ein wichtiger Wartungsschritt, der Hygiene, Luftstrom und Effizienz waehrend der gesamten Saison schuetzt.",
+        "Regelmaessige Reinigung hilft ausserdem dabei, dass die ausgewaehlte Technik dauerhaft naeher an ihrer vorgesehenen Leistung arbeitet und laenger haelt."
       ]
     },
     "service": {
       "title": "Klimaanlagen-Service / Wartung",
       "intro": "Präventiver und korrigierender Service für stabile, effiziente und verlässliche Systeme.",
       "body": [
-        "Die Service-Seite verbindet technische Klarheit mit conversion-orientierter UX und schafft Sicherheit für private wie kleine gewerbliche Kundschaft.",
-        "Diagnostik, saisonale Kontrollen und laufende Wartung werden in einem professionellen, kontrollierten Ton kommuniziert."
+        "Wir uebernehmen Diagnostik, saisonale Wartung und laufenden Service fuer Anlagen in Wohnungen, Haeusern, Bueros und kleineren Gewerbeobjekten.",
+        "Wenn eine Anlage nicht mehr passend arbeitet, pruefen wir, ob Service, Nachjustierung oder ein sinnvoller Geraetetausch der richtige naechste Schritt ist."
       ]
     },
     "heating": {
       "title": "Heizsysteme",
       "intro": "Heizungsunterstützung mit Fokus auf Komfort, Stabilität und praktische Effizienz.",
       "body": [
-        "Im Bereich Heizung positioniert sich das Unternehmen als moderner Servicepartner für klassische und aktualisierte Systeme.",
-        "Die visuelle Sprache bleibt zurückhaltend und hochwertig und unterstützt das notwendige Vertrauen bei technischen Entscheidungen."
+        "Wir unterstuetzen Heizsysteme mit praxisnaher Wartung, Pruefung und Empfehlungen auf Basis von Gebaeudetyp, Komfortanspruch und Betriebseffizienz.",
+        "Bei Bedarf helfen wir bei der Auswahl von Modernisierung oder Ersatzgeraeten, die besser zum Objekt und zur taeglichen Nutzung passen."
       ]
     },
     "heatPumps": {
       "title": "Wärmepumpen",
       "intro": "Effiziente Wärmepumpenlösungen mit klarem Fokus auf Komfort, Leistung und modernen Betrieb.",
       "body": [
-        "Wärmepumpen erfordern eine ruhige, fundierte Erklärung. Deshalb liegt der Schwerpunkt auf korrekter Planung, Wartbarkeit und verlässlicher Nutzung.",
-        "Diese Positionierung spricht qualifizierte Anfragen an, die auf Premium-Service und technische Sorgfalt Wert legen."
+        "Waermepumpen brauchen eine realistische Planung und korrekte Auslegung. Wir helfen bei der Auswahl eines Systems, das zu Objekt, Daemmung, Warmwasserbedarf und erwarteten Betriebskosten passt.",
+        "So entsteht eine Loesung fuer langfristige Effizienz, stabilen Komfort und gute Wartbarkeit statt einer pauschalen Produktempfehlung."
       ]
     },
     "mar": {
       "title": "MaR- und Regelungssysteme",
       "intro": "Mess- und Regelungssysteme für mehr Transparenz, Kontrolle und stabile Betriebsprozesse.",
       "body": [
-        "Die MaR-Seite erweitert den Auftritt von klassischem HVAC-Service hin zu einer technisch glaubwürdigen Ingenieur-Dienstleistungsmarke.",
-        "Die Sprache bleibt zugänglich und zugleich präzise, professionell und fachlich korrekt."
+        "Mess- und Regelungssysteme helfen dabei, Klima- und Heiztechnik stabil, transparent und einfacher steuerbar zu halten.",
+        "Wir passen Regelungskonzepte und Komponenten an die reale Anlagenstruktur an, damit die ausgewaehlte Technik sauber zusammenarbeitet."
       ]
     }
   },
   "about": {
     "eyebrow": "Über das Unternehmen",
-    "headline": "Präziser technischer Serviceansatz für moderne Klimasysteme.",
+    "headline": "Technischer Service und Geraeteauswahl abgestimmt auf Kunde, Objekt und langfristige Zuverlaessigkeit.",
     "body": [
-      "Karpan Climate Service ist als lokale Premium-Service-Marke für Kundinnen und Kunden konzipiert, die technische Korrektheit, saubere Ausführung und klare Kommunikation erwarten.",
-      "Das Leistungsspektrum umfasst Montage, Reinigung, Wartung, Heizung, Wärmepumpen und MaR-Unterstützung mit einem digitalen Kontaktprozess, der die Zeit der Kundschaft respektiert."
-    ]
+      "Karpan Climate Service arbeitet fuer Kunden, die saubere Ausfuehrung, ehrliche Empfehlungen und Technik erwarten, die zu den realen Betriebsbedingungen passt statt zu beliebigen Verkaufspaketen.",
+      "Das Leistungsspektrum umfasst Montage, Reinigung, Wartung, Heizung, Waermepumpen und MaR-Unterstuetzung mit individueller Auswahl der passenden Ausstattung nach Objektart, Raumaufteilung, Komfortanspruch und Budget."
+    ],
+    "brandTitle": "Marken und passende Loesungen",
+    "brandText": "Wir sind nicht an einen einzelnen Hersteller gebunden. Wir arbeiten mit Technik namhafter Weltmarken und helfen dabei, die beste Loesung fuer Objekt, technische Anforderungen und Erwartungen des Kunden auszuwaehlen."
   },
   "contact": {
     "eyebrow": "Anfrage und Kontakt",
     "headline": "Serviceanfrage senden",
-    "text": "Wählen Sie Leistungsart, Wunschtermin und bevorzugten Kontaktkanal. Wir melden uns mit klaren nächsten Schritten zurück.",
+    "text": "Waehlen Sie Leistungsart, Wunschtermin und Kontaktkanal und beschreiben Sie kurz das Objekt, damit wir eine passende Empfehlung und den naechsten Schritt vorbereiten koennen.",
     "directTitle": "Direkter Kontakt",
-    "legal": "Detaillierte Firmendaten können später in der Konfiguration und auf den Rechtsseiten ergänzt werden.",
+    "legal": "Vollstaendige Firmendaten und rechtliche Informationen finden Sie auf den Rechtsseiten oder erhalten sie direkt auf Anfrage.",
     "whatsappLabel": "WhatsApp"
   },
   "form": {
@@ -188,8 +192,17 @@
     "success": "Ihre Anfrage wurde erfolgreich gesendet.",
     "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
     "honeypot": "Dieses Feld leer lassen",
-    "placeholderMessage": "Beschreiben Sie den Raum, den Systemtyp oder wobei Sie Unterstützung benötigen.",
-    "selectPlaceholder": "Leistung auswählen"
+    "placeholderMessage": "Beschreiben Sie das Objekt, die Raumgroesse, das vorhandene System oder welche Technik und welcher Service benoetigt werden.",
+    "selectPlaceholder": "Leistung auswählen",
+    "dateRequired": "Bitte waehlen Sie vor dem Senden einen verfuegbaren Tag aus.",
+    "calendarHelper": "Es koennen nur freie Tage ausgewaehlt werden. Nicht markierte Tage sind belegt.",
+    "calendarAvailable": "Frei",
+    "calendarUnavailable": "Belegt",
+    "calendarSelected": "Ausgewaehlt",
+    "calendarLoading": "Verfuegbare Termine werden geladen...",
+    "calendarEmpty": "In diesem Monat sind aktuell keine freien Tage markiert.",
+    "calendarPreviousMonth": "Vorheriger Monat",
+    "calendarNextMonth": "Naechster Monat"
   },
   "consent": {
     "title": "Analyse nur mit Einwilligung",
@@ -211,7 +224,7 @@
     "privacyRights": "Nutzer können nach geltendem EU- und slowakischem Recht Auskunft, Berichtigung oder Löschung personenbezogener Daten verlangen."
   },
   "footer": {
-    "tagline": "Montage, Reinigung und Service von Klimasystemen mit präzisem modernem Standard.",
+    "tagline": "Montage, Reinigung und Service fuer Klimasysteme mit individueller Geraeteauswahl fuer Wohn- und Gewerbeobjekte.",
     "rights": "Alle Rechte vorbehalten.",
     "contactTitle": "Kontakt",
     "legalTitle": "Rechtliches"
@@ -233,6 +246,14 @@
     "tableService": "Leistung",
     "tableDate": "Datum",
     "tableLocale": "Sprache",
-    "noData": "Noch keine Daten."
+    "noData": "Noch keine Daten.",
+    "availabilityTitle": "Verfuegbarkeitskalender",
+    "availabilityText": "Markieren Sie die Tage, die fuer Anfragen offen sind. Kunden koennen nur die hier als frei markierten Tage auswaehlen.",
+    "availabilityFree": "Freier Tag",
+    "availabilityBusy": "Belegter Tag",
+    "availabilitySave": "Verfuegbarkeit speichern",
+    "availabilitySaving": "Wird gespeichert...",
+    "availabilitySaved": "Verfuegbarkeit aktualisiert.",
+    "availabilityError": "Verfuegbarkeit konnte nicht gespeichert werden."
   }
 }

@@ -31,7 +31,7 @@ export function Footer({ locale, dict }: { locale: Locale; dict: Dictionary }) {
       <div className="section mt-10 flex flex-col gap-2 border-t border-line pt-6 text-xs text-muted sm:flex-row sm:items-center sm:justify-between">
         <p>&copy; {new Date().getFullYear()} {siteConfig.companyName}. {dict.footer.rights}</p>
         <div className="flex gap-3">
-          <a href={`/sl`}>SL</a>
+          <a href={`/sk`}>SK</a>
           <a href={`/en`}>EN</a>
           <a href={`/de`}>DE</a>
           <a href={`/ua`}>UA</a>

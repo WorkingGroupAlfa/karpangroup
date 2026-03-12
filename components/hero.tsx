@@ -8,7 +8,7 @@ import { siteConfig } from '@/lib/config';
 
 export function Hero({ locale, dict }: { locale: string; dict: Dictionary }) {
   return (
-    <section className="section grid gap-10 pb-16 pt-10 lg:grid-cols-[1.05fr_0.95fr] lg:items-center lg:pt-16">
+    <section className="section grid gap-10 overflow-x-clip pb-16 pt-10 lg:grid-cols-[0.85fr_1.15fr] lg:items-center lg:pt-16">
       <div>
         <span className="eyebrow">{dict.home.eyebrow}</span>
         <h1 className="h1 max-w-3xl">{dict.home.headline}</h1>
@@ -31,14 +31,14 @@ export function Hero({ locale, dict }: { locale: string; dict: Dictionary }) {
                 </div>
                 <div className="h-16 w-16 rounded-[22px] border border-white/60 bg-white/70 shadow-soft backdrop-blur" />
               </div>
-              <div className="grid gap-4 sm:grid-cols-2">
-                <div className="rounded-[24px] border border-white/60 bg-graphite p-6 text-white shadow-soft">
+              <div className="grid gap-4 md:grid-cols-2">
+                <div className="min-w-0 rounded-[24px] border border-white/60 bg-graphite p-6 text-white shadow-soft">
                   <p className="text-xs uppercase tracking-[0.18em] text-white/60">{dict.home.heroCoreFocusLabel}</p>
-                  <p className="mt-3 text-xl font-medium">{dict.home.heroCoreFocusText}</p>
+                  <p className="mt-3 text-base font-medium lg:text-lg">{dict.home.heroCoreFocusText}</p>
                 </div>
-                <div className="rounded-[24px] border border-white/60 bg-white/70 p-6 shadow-soft backdrop-blur">
+                <div className="min-w-0 rounded-[24px] border border-white/60 bg-white/70 p-6 shadow-soft backdrop-blur">
                   <p className="text-xs uppercase tracking-[0.18em] text-muted">{dict.home.heroLeadPathLabel}</p>
-                  <p className="mt-3 text-xl font-medium">{dict.home.heroLeadPathText}</p>
+                  <p className="mt-3 text-base font-medium lg:text-lg">{dict.home.heroLeadPathText}</p>
                 </div>
               </div>
             </div>

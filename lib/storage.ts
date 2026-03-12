@@ -4,6 +4,7 @@ import path from 'path';
 const dataDir = path.join(process.cwd(), 'data');
 const analyticsPath = path.join(dataDir, 'analytics.json');
 const bookingsPath = path.join(dataDir, 'bookings.json');
+const availabilityPath = path.join(dataDir, 'availability.json');
 
 export type AnalyticsStore = {
   visits: number;
@@ -18,6 +19,11 @@ export type AnalyticsStore = {
   events: Array<{ type: string; path?: string; locale?: string; source?: string; device?: string; at: string }>;
 };
 
+export type AvailabilityStore = {
+  availableDates: string[];
+  updatedAt: string | null;
+};
+
 const defaultAnalytics: AnalyticsStore = {
   visits: 0,
   pageViews: 0,
@@ -29,6 +35,11 @@ const defaultAnalytics: AnalyticsStore = {
   devices: {},
   formSubmissions: 0,
   events: []
+};
+
+const defaultAvailability: AvailabilityStore = {
+  availableDates: [],
+  updatedAt: null
 };
 
 async function ensureFile(filePath: string, initial: unknown) {
@@ -63,4 +74,15 @@ export async function readBookings() {
   await ensureFile(bookingsPath, []);
   const raw = await fs.readFile(bookingsPath, 'utf8');
   return JSON.parse(raw) as Record<string, unknown>[];
+}
+
+export async function readAvailability() {
+  await ensureFile(availabilityPath, defaultAvailability);
+  const raw = await fs.readFile(availabilityPath, 'utf8');
+  return JSON.parse(raw) as AvailabilityStore;
+}
+
+export async function writeAvailability(data: AvailabilityStore) {
+  await ensureFile(availabilityPath, defaultAvailability);
+  await fs.writeFile(availabilityPath, JSON.stringify(data, null, 2), 'utf8');
 }

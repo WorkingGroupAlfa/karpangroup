@@ -11,7 +11,7 @@ function unauthorized() {
 export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
-  if (pathname.includes('/admin/stats')) {
+  if (pathname.includes('/admin/stats') || pathname.startsWith('/api/admin/')) {
     const auth = request.headers.get('authorization');
     if (!auth?.startsWith('Basic ')) return unauthorized();
 

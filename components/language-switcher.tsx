@@ -1,8 +1,15 @@
 import Link from 'next/link';
 import { locales, type Locale } from '@/lib/i18n';
 
+const localeLabels: Record<Locale, string> = {
+  ua: 'ua',
+  de: 'de',
+  sk: 'sk',
+  en: 'en'
+};
+
 export function LanguageSwitcher({ locale, pathname }: { locale: Locale; pathname: string }) {
-  const clean = pathname.replace(/^\/(ua|de|sl|en)/, '') || '';
+  const clean = pathname.replace(/^\/(ua|de|sk|en)/, '') || '';
   return (
     <div className="flex items-center gap-1 rounded-full border border-line bg-white/70 p-1 backdrop-blur">
       {locales.map((item) => (
@@ -11,7 +18,7 @@ export function LanguageSwitcher({ locale, pathname }: { locale: Locale; pathnam
           href={`/${item}${clean}`}
           className={`rounded-full px-3 py-1.5 text-xs font-medium uppercase tracking-[0.16em] transition ${item === locale ? 'bg-graphite text-white' : 'text-muted hover:text-graphite'}`}
         >
-          {item}
+          {localeLabels[item]}
         </Link>
       ))}
     </div>

@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { z } from 'zod';
-import { appendBooking, readAnalytics, writeAnalytics } from '@/lib/storage';
+import { getTodayIso } from '@/lib/availability-calendar';
+import { appendBooking, readAnalytics, readAvailability, writeAnalytics } from '@/lib/storage';
 
 const schema = z.object({
   name: z.string().min(2).max(120),
@@ -30,6 +31,13 @@ export async function POST(request: NextRequest) {
 
   if (Date.now() - data.startedAt < 2500) {
     return NextResponse.json({ error: 'Submitted too quickly' }, { status: 400 });
+  }
+
+  const availability = await readAvailability();
+  const todayIso = getTodayIso();
+
+  if (data.date < todayIso || !availability.availableDates.includes(data.date)) {
+    return NextResponse.json({ error: 'Selected day is unavailable' }, { status: 400 });
   }
 
   const entry = { ...data, createdAt: new Date().toISOString() };
